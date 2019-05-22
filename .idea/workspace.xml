@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62fcf88a-d0d9-4730-b574-a1dcb14dee6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/AdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Sports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/RealSunject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/proxyPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,46 +43,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/AdapterTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="325">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Student.java">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/RealSunject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Sports.java">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Study.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/proxyPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -92,10 +92,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Java-Study\collection-study\dp-study\src\com\soft1841\week1</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,10 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NotePad.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/group1/Client.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/group1/Server.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server1.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client1.java" />
         <option value="$USER_HOME$/Desktop/Server2.java" />
         <option value="$PROJECT_DIR$/socket-study/src/com/soft1841/socket/socket/Server3.java" />
@@ -154,6 +155,10 @@
         <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Student.java" />
         <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Sports.java" />
         <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Study.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Proxy.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Subject.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/proxyPattern.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/RealSunject.java" />
       </list>
     </option>
   </component>
@@ -194,9 +199,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,17 +210,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="collection-study" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,12 +241,13 @@
               <item name="dp-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="week1" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +257,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="276" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558480431378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558565368289" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -310,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterTest">
+  <component name="RunManager" selected="Application.proxyPattern">
     <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.week1.week3.AdapterTest" />
       <module name="dp-study" />
@@ -330,19 +325,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.soft1841.week1.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDBCDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.jdbc.JDBCDemo4" />
-      <module name="jdbc-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,20 +358,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="proxyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.week1.week4.proxyPattern" />
+      <module name="dp-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.week1.week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MusicFrame" />
-      <item itemvalue="Application.JDBCDemo4" />
       <item itemvalue="Application.SingLetonTest" />
       <item itemvalue="Application.FactoryTest" />
       <item itemvalue="Application.AdapterTest" />
+      <item itemvalue="Application.proxyPattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.proxyPattern" />
         <item itemvalue="Application.AdapterTest" />
         <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.SingLetonTest" />
         <item itemvalue="Application.MusicFrame" />
-        <item itemvalue="Application.JDBCDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +475,9 @@
       <workItem from="1558308830442" duration="1335000" />
       <workItem from="1558336998853" duration="2268000" />
       <workItem from="1558392152478" duration="817000" />
-      <workItem from="1558480124232" duration="283000" />
+      <workItem from="1558480124232" duration="362000" />
+      <workItem from="1558500973645" duration="17000" />
+      <workItem from="1558565033247" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="week1">
       <created>1558310065729</created>
@@ -496,11 +493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558392877369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week3">
+      <created>1558480475520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558480475520</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238608000" />
+    <option name="totallyTimeSpent" value="238953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,7 +519,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" weight="0.47731093" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" weight="0.4769604" />
       <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.22312045" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -625,48 +629,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week1" />
     <MESSAGE value="week2" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2" />
+    <MESSAGE value="week3" />
+    <option name="LAST_COMMIT_MESSAGE" value="week3" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Client2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket-study/src/com/soft1841/socket/socket/Server5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket-study/src/com/soft1841/socket/socket/Client5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket-study/src/com/soft1841/socket/Server2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/CloudMusicFrame.java" />
     <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form">
       <provider selected="true" editor-type-id="ui-designer" />
@@ -938,10 +908,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Sports.java">
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/AdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -955,22 +933,50 @@
     <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/AdapterTest.java">
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week3/Sports.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/RealSunject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/com/soft1841/week1/week4/proxyPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
